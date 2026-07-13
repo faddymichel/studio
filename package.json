@@ -1,0 +1,22 @@
+{
+  "name": "@faddymichel/studio",
+  "version": "1.0.0",
+  "description": "Faddy's Studio",
+  "homepage": "https://github.com/faddymichel/studio#readme",
+  "bugs": {
+    "url": "https://github.com/faddymichel/studio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faddymichel/studio.git"
+  },
+  "license": "Unlicense",
+  "author": "Faddy Michel <faddymichel@gmail.com>",
+  "type": "module",
+  "main": "server.js",
+  "exports": {
+    ".": "./index.js",
+    "./*": "./*.js",
+    "./instrument/*": "./instrument/*.js"
+  }
+}
