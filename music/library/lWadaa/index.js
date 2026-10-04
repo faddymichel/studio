@@ -6,7 +6,7 @@ import nota from './nota.js';
 export default await new class LWadaa extends Music {
 
 tempo = 82.5;
-key = 2;
+key = 0;
 scale = new Scale (
 
 { divisions: 8, interval: 2, size: 3 },
@@ -46,7 +46,7 @@ synth .play ( ... nota .scale );
 music .time = 'scale.chord';
 
 synth .phone = 'chord';
-synth .distance = 2**-1;
+synth .distance = 2**-2;
 synth .chord = true;
 synth .octave = 7;
 
@@ -353,7 +353,7 @@ music .time =  'Verse 1';
 music .time -= 1;
 
 synth .phone = 'chord';
-synth .distance = 2**-1;
+synth .distance = 2**-2;
 synth .chord = true;
 synth .octave = 7;
 synth .ornaments = [ 0, -0 ];
