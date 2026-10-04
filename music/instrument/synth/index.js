@@ -43,7 +43,7 @@ modulatorFrequency = 2**-0;
 
 _body = `
 
-iAmplitude init ( 1 / ( 1 + iPDistance ) ) * sqrt ( 2^5 / iFrequency )
+iAmplitude init ( 1 / ( 1 + iPDistance ) ) * sqrt ( 2^4 / iFrequency )
 
 iPAttack *= iLength
 iPDecay *= iLength - iPAttack
