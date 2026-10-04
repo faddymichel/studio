@@ -1,6 +1,6 @@
-import Studio from '@faddymichel/studio/server';
-import Electro from '@faddymichel/studio/instrument/electro';
-import Horn from '@faddymichel/studio/instrument/horn';
+import Studio from '@faddymichel/studio/music/server';
+import Electro from '@faddymichel/studio/music/instrument/electro';
+import Horn from '@faddymichel/studio/music/instrument/horn';
 
 export default await new class HaddeshShaf extends Studio {
 
@@ -8,6 +8,12 @@ tempo = 90;
 
 electro = new Electro ( this );
 horn = new Horn ( this );
+
+chord = {
+
+on: true
+
+};
 
 constructor () {
 
@@ -20,7 +26,6 @@ horn .distance = 4;
 
 Object .assign ( electro, {
 
-chord: true,
 octave: 8,
 distance: 1,
 attack: 2**-9,
@@ -33,12 +38,12 @@ shift: 0,
 
 chord .rhythm = 2**-16;
 
-chord .set ( -1, [ 3, 7 ] );
-chord .set ( 0, [ 4, 9 ] );
-chord .set ( 3, [ 7, 10 ] );
-chord .set ( 4, [ 9, 13 ] );
-chord .set ( 7, [ 10, 16 ] );
-chord .set ( 10, [ 16, 20 ] );
+chord [ -1 ] = [ 3, 7 ];
+chord [ 0 ] = [ 4, 9 ];
+chord [ 3 ] = [ 7, 10 ];
+chord [ 4 ] = [ 9, 13 ];
+chord [ 7 ] = [ 10, 16 ];
+chord [ 10 ] = [ 16, 20 ];
 
 for ( let repeat = 0; repeat < 100; repeat++ )
 electro .play (

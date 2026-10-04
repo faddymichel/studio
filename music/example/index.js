@@ -1,9 +1,9 @@
-import Studio from '@faddymichel/studio/server';
-import Tabla from '@faddymichel/studio/instrument/tabla';
-import Electro from '@faddymichel/studio/instrument/electro';
-import Horn from '@faddymichel/studio/instrument/horn';
+import Music from '@faddymichel/studio/music/server';
+import Tabla from '@faddymichel/studio/music/instrument/tabla';
+import Electro from '@faddymichel/studio/music/instrument/electro';
+import Horn from '@faddymichel/studio/music/instrument/horn';
 
-export default await new class Example extends Studio {
+export default await new class Example extends Music {
 
 title = 'theExampleBand';
 
@@ -17,28 +17,18 @@ constructor () {
 
 super ();
 
-const { chord, tabla, electro, horn } = this;
+const { tabla, electro, horn } = this;
 const ornaments = [ 2, 1 ];
 
-//horn .chord = true;
 horn .distance = 0;
 
 Object .assign ( electro, {
 
-//chord: true,
 distance: 2,
 octave: 8,
 
 } );
 
-//chord .rhythm = 2**-10;
-
-chord .set ( -1, [ 3, 7 ] );
-chord .set ( 0, [ 4, 9 ] );
-chord .set ( 3, [ 7, 10 ] );
-chord .set ( 4, [ 9, 13 ] );
-chord .set ( 7, [ 10, 16 ] );
-chord .set ( 10, [ 16, 20 ] );
 
 for ( let repeat = 0; repeat < 100; repeat++ )
 electro .play (

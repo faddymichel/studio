@@ -1,0 +1,144 @@
+import Music from '@faddymichel/studio/music/server';
+import Scale from '@faddymichel/studio/music/scale';
+import Synth from '@faddymichel/studio/music/instrument/synth'
+import nota from './nota.js';
+
+export default await new class LWadaa extends Music {
+
+tempo = 90;
+key = 8;
+scale = new Scale (
+
+{ divisions: 8, interval: 2, size: 3 },
+
+0,
+1.5,
+2,
+
+4,
+4.5,
+6,
+7.5
+
+);
+
+synth = new Synth ( this );
+
+constructor () {
+
+super ();
+
+const music = this;
+const { synth } = music;
+
+music .time = 'scale';
+
+synth .phone = 'piano';
+synth .distance = 2**-8;
+synth .octave = 8;
+synth .chord = false;
+
+synth .play ( ... nota .scale );
+
+music .time = 'scale.chord';
+synth .play ( ... nota .scale );
+
+music .time = 'scale.chord';
+
+synth .phone = 'piano.chord';
+synth .distance = 2**-4;
+synth .chord = true;
+synth .octave = 7;
+
+synth .play ( ... nota .scale );
+
+music .time = 'tempo';
+
+synth .phone = 'lowHat';
+synth .distance = 0;
+synth .octave = 8;
+synth .chord = true;
+
+for ( let repeat = 0; repeat < 14; repeat++ )
+synth .play ( ... nota .tempo );
+
+music .time = 'tempo';
+music .time += 2;
+music .time =  'baiool.lemeen.lWadaa';
+music .time += 1/8;
+
+for ( let repeat = 0; repeat < 2; repeat++ ) {
+
+synth .phone = 'piano';
+synth .octave = 8;
+synth .distance = 2**-8;
+synth .chord = false;
+synth .ornaments = [ 0, -2 ];
+
+synth .play (
+
+{ tone: 'e', length: 1/8 },
+'e',
+'d',
+'e',
+'d',
+'c',
+'b',
+'c',
+'b',
+'a',
+'g/',
+'a',
+'b',
+'c',
+'d',
+'e',
+
+'e',
+'d',
+'e',
+'f',
+'e',
+'d',
+'e',
+{ tone: 'f', length: 1/4 }, {}
+
+);
+
+synth .phone = 'flute';
+synth .octave = 9;
+
+synth .play (
+
+{ tone: 'b', length: 1/8 },
+'c',
+'d',
+'e'
+'f'
+
+);
+
+};
+
+music .time =  'tempo'; //baiool.lemeen.lWadaa';
+music .time++;
+
+synth .phone = 'piano.chord';
+synth .distance = 2**-4;
+synth .chord = true;
+synth .octave = 7;
+synth .ornaments = [ 0, -2 ];
+
+for ( let repeat = 0; repeat < 20; repeat++ )
+synth .play (
+
+{ length: 1/4, tone: 'g/' },
+'a'
+
+);
+
+music .skip ( 'tempo' ); //baiool.lemeen.lWadaa' );
+
+};
+
+} () .play ();

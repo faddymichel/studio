@@ -15,8 +15,8 @@
   "type": "module",
   "main": "server.js",
   "exports": {
-    ".": "./index.js",
-    "./*": "./*.js",
-    "./instrument/*": "./instrument/*.js"
+    "./music": "./music/index.js",
+    "./music/*": "./music/*.js",
+    "./music/instrument/*": "./music/instrument/*/index.js"
   }
 }

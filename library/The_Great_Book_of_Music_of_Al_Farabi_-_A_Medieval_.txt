@@ -1,0 +1,719 @@
+doi: 10.54103/2465-0137/28394
+
+ISSN 2465-0137 – Anno 2024 – vol. XXVIII (1)
+
+Saggi
+
+THE GREAT BOOK OF MUSIC OF AL FARABI –
+A MEDIEVAL MODEL FOR A MUSICOTHEORETICAL RESEARCH
+Prof. Ilia Mihaylov1
+ORCID: 0009-0007-5551-3865
+1
+Sofia University “St. Kliment Ohridski” (02jv3k292)
+
+Il Grande Libro della Musica di Al Farabi - Un modello medievale per la ricerca musicologica
+Abstract
+The Great Book of Music (Kitab al-Musiqa al-Kabir), by the Golden Age Islamic philosopher Al-Farabi,
+is a X th. century treatise on music in Arabic. It consists of two parts, the first being an introduction in
+which the definition of melody and its subdivisions, the origin of music, and some acoustic problems are
+discussed. The second part is devoted to the specifics of musical instruments popular among Arabs, the
+variety of rhythms, and the composition of melodies. Influenced by Pythagoras’ theory of harmonic relationships, Farabi gives us a detailed definition of music, reveals its categories, and describes the elements
+from which a musical work is formed. The author systematically and subversively explains the importance
+of induction, and supports his theory emphatically by evidence, asserting that many of the principles he
+derives are acquired through sense experience, as in astronomy, optics, medicine, and other sciences.
+Keywords: music, pedagogy, medieval, eastern, musico-theoretical, philosophy, induction, sensory experience
+Sommario
+Il Grande Libro della Musica (Kitab al-Musiqa al-Kabir), scritto dal filosofo islamico dell’età dell’oro Al-Farabi,
+è un trattato sulla musica in arabo risalente al X secolo. Si compone di due parti: la prima è un’introduzione
+in cui vengono discussi la definizione di melodia e le sue suddivisioni, l’origine della musica e alcuni problemi
+acustici. La seconda parte è dedicata alle specificità degli strumenti musicali popolari tra gli arabi, alla varietà dei
+ritmi e alla composizione delle melodie. Influenzato dalla teoria delle relazioni armoniche di Pitagora, Farabi ci
+fornisce una definizione dettagliata della musica, ne rivela le categorie e descrive gli elementi che compongono
+un’opera musicale. L’autore spiega in modo sistematico e sovversivo l’importanza dell’induzione e sostiene con
+enfasi la sua teoria con prove concrete, affermando che molti dei principi da lui derivati sono acquisiti attraverso l’esperienza sensoriale, come nell’astronomia, nell’ottica, nella medicina e in altre scienze.
+Parole chiave: musica, pedagogia, medievale, orientale, musicologia, filosofia, induzione, esperienza
+sensoriale
+
+© The Author(s)
+Licensed under a Creative
+Commons AttributionShareAlike 4.0 International
+
+Published online: 15/10/2025
+
+Ilia Mihaylov
+
+1. INTRODUCTION
+The works of the medieval scholar Al
+Farabi1, devoted to music theory, have unfortunately been largely marginalized and underappreciated by European music media scholars.
+Despite being one of the most influential theorists of Near Eastern music and the author
+of outstanding commentaries on the works of
+ancient Greek music theorists, these aspects of
+his many writings remain in the shadow of his
+philosophical works. This is probably because
+of the hundred and sixty or so works attributed
+to Farabi, only eight are about music, of which
+four survive (Sawa, 1983-84: 3). Or because his
+contributions to music theory are often entangled in legendary narratives that add a supernatural dimension to his talents as a musician. It is
+said, for example, that he could make his listeners laugh, cry and lull them to sleep against their
+will (Khallikan, 1868: 309).
+Fig. 1: Image of al-Farabi from 1493 in Liber Chronicarum
+
+1
+Little is known about the life of the Muslim scholar Abu
+Nasr Muhammad ibn Muhammad ibn Uzlag ibn Tarkhan al-Farabi (Al-Farabi). He was probably born in 870 in a place called
+Farab or Farayb. Scholars disagree about his ethnic origin - some
+claim he was Turkic, but more recent research indicates that he
+was probably Persian. He moved to Baghdad; in 943 he went
+to Syria (Damascus), and then to Egypt. He died in Damascus
+around December 950 or January 951. Al-Farabi had two main
+interests - philosophy (particularly logic) and music. His interest
+in philosophy explains why he is known as the “Second Teacher”
+(the first, of course, being Aristotle). A practicing musician, he is
+believed to have played the oud masterfully.
+
+26
+
+Of Farabi‘s works devoted to music, this study
+focuses on The Great Book of Music (Kitab al-Musiqa al-Kabir). It is considered one of the most
+important, complex philosophical sections. Farabi
+wrote his work for Abu Jaffar Muhammad al-Qasem Karaki, vizier to the caliph al-Razi (940 AD),
+who wished to learn about the science of music
+according to ancient Greek theorists. The author
+agrees to his request, as he finds serious deficiencies
+in the writings of ancient Hellas that were available
+in Arabic translation. According to him, they were
+due to the poor selection of the writings, the poor
+translation from Ancient Greek into Arabic, and
+the shortcomings he found in the writings of some
+of his predecessors, the philosopher al-Kindi (800877) and the singer, composer, lutenist and theorist
+Ishaq al-Mawsili (767-850) (Sawa, 1989:14).
+Farabi was a logician and practicing musician
+and his theory claimed to cut clear and open practice. He mainly expounds ancient Greek music theory, but also introduces his readers to those aspects
+about music that are not applicable in the Middle
+East. Since the vizier was not familiar with the art
+and theory of music, Farabi explains music by borrowing terms, concepts, and paradigms from the
+Greek sciences and modern disciplines such as
+arithmetic, Euclidean geometry, Aristotelian logic,
+architecture, civil and mechanical engineering, politics, Arabic grammar, phonology, prosody, poetics, rhetoric, and Qur‘anic studies (Sawa, 1990). In
+addition to the Greek theories, he also describes
+the musical practices of his time and origin, i.e., the
+early Abbasid era of Iraq, Persia, Transjordan, and
+those of the Umayyads of the early Islamic era in
+Mecca, Medina, and Damascus (Sawa, 1989:14-17).
+
+2. THE GREAT BOOK OF MUSIC
+The Great Book of Music (Kitab al-Musiqa al-Kabir) exists in several manuscripts1, as well as in an
+Arabic edition (Farmer,1965: 27-28; Sawa, 1989:
+18-20; Shiloah, 1979: 104-07). It was later translated
+into Hebrew by Joseph ben Judah ibn Aknin (lived
+De Musica
+ISSN 2465-0137 – Anno 2024, Vol. XXVIII (1)
+
+THE GREAT BOOK OF MUSIC OF AL FARABI
+
+c. 1150-1220) and into French by Baron Rudolf
+d‘Erlanger (D‘Erlanger, 1930-59).2
+The treatise is in two volumes. The first volume is
+divided into two books, but this claim is misleading
+and false. In fact, the first volume is divided into
+three very clear parts, called by the author The Book
+of Introduction (Part 1), The Book of the Elements (Part
+2 or Book One) and The Book of the Instruments (Part
+3 or Book Two). The second volume consists of
+only one part, called by the author The Book of Composition (Part 4 or Third Book). Each of these books
+includes two essays. Thus, there are a total of eight
+narrative essays in four parts.
+In the preface to The Great Book of Music,
+Al-Farabi defines the motivation for its creation
+as, „...the desire to know the art of Music as the ancients
+knew it“ (D‘Erlanger, 1930:1).
+He goes on to tell us that:
+“To be a perfect theorist, in any science, three conditions are necessary: to know well all the principles,
+to have the ability to deduce the necessary consequences and interrelationships from those principles
+belonging to that science, to be able to oppose wrong
+theories, and to analyze the opinions expressed
+by other writers in order to distinguish right from
+wrong” (D‘Erlanger, 1930:2).
+
+Book of Introduction (Part 1) discusses and
+outlines the basic musical principles and rules.
+It consists of two essays. The first essay is an
+introduction to the art of music and deals with
+the philosophy of music, while the second essay
+deals with the nature of musical science and elements of acoustics.
+Contents of the topics (lectures) of the first essay:
+Definition of melody; Theory and practice of
+music; The instruments (Ch. 1, p. 5) - Disposition
+For this study I use the only complete translation to date
+into a European language, carried out by Baron D’Erlanger, to
+whose great importance the last chapter of this presentation is
+dedicated.
+2
+
+De Musica
+Anno 2024 Vol. XXVIII (1) – ISSN 2465-0137
+
+(placement) of music; Invention of melody
+(Ch. 2, p. 8) - Different kinds of music produce different effects on the soul (Ch. 3, p. 13) Musical Talent: the Voice and the Playing of
+Instruments (Ch. 4, p. 17) - The origin of music
+(Ch. 5, p. 18) - The invention of instruments
+(Ch. 6, p. 21) - The study of music (Ch. 7, p. 23)
+- Theoretical science; The theory of the art of
+music (Ch. 8, p. 24) - Judgment of feeling and
+intelligence; Basic principles, what is „natural“
+in music (Ch. 9, p. 30).
+Contents of the topics (lectures) of the second essay:
+Continuation of the previous paragraph:
+„Natural“ sound sensitivity, harmony or consonance, sensations of discord (Ch. 1, p. 37) The search for „natural tones“; musical intervals; the octave (Ch. 2, p. 41) - The instruments
+predestined to extract the „natural“ tones; the
+Sahruda (Ch. 3, p. 42) - The Oud (Lute) - (Ch. 4
+p. 44) - The grouping of notes, the scales (Ch. 5,
+p. 49) - The basic intervals - octave, fifth and
+fourth and tone (Ch. 6, p. 53) - The inervale,
+„remainder“ or Lima (Ch. 7, p. 54) - Dividing the
+fifth into three intervals, the genres (Ch. 8, p. 55) Discussion of the semitone, a ladder formed by
+12 semitones (Ch. 9, p. 63) - Reasons for the pitch
+of sounds (Ch. 10, p. 64) - Representing notes
+by numbers, theoretical and practical ideas about
+notes (Ch. 11, p. 65) - Consonants (Ch. 12, p. 67) Simple ratios; Producing, dividing, adding and
+subtracting ratios (Ch. 13, p. 72).
+Key ideas
+The Book of Introduction discusses the basic
+principles and rules for deriving them.
+Every theoretical art consists of principles
+and what follows from them. Thus, as in the
+other arts, knowing music theory requires knowing its basic principles. Then one must know the
+rules or generalities by which all these fundamental principles of the art are derived, since a
+27
+
+Ilia Mihaylov
+
+complete mastery of them is also essential for
+the theorist. Finally, these rules enable one to
+determine exactly what the art of music consists in and what it does not consist in, as well as
+the possibility of avoiding mistakes. This is how
+one discovers the art of music and its character,
+as well as the training appropriate for one who
+would explore this art.
+Book of Elements (Part 2) contains the second pair of essays from the Great Book of Music.
+It is devoted primarily to acoustic principles and
+the elements themselves. The crafts (ṣenāʿa) of
+music are discussed, arranged according to the
+three arts (fann). The first art includes basic theoretical elements such as acoustics, musical intervals, and melodic and rhythmic modes. Al-Farabi
+reports that the Greeks, as well as early writers
+in the Near East, limited their studies to this art
+(Sawa, 1989:15).
+Contents of the topics (lectures) of the first essay:
+Principles of physics: The production of
+sound; its transmission (Ch. 1, p. 80) - Tone;
+definition; bodies that produce tones (Ch. 2,
+p. 81) - Causes of pitches and leanings; causes
+that we can measure and causes that we cannot
+estimate; interrelationships between notes (Ch. 3,
+p. 82) - Musical intervals: double octave, fourth,
+fifth, tone; consonant and dissonant relationships;
+major, middle, and minor intervals (Ch. 4, p. 86)
+- Arithmetic rules for adding, dividing, subtracting intervals (Ch. 5, p. 93) - Diaphones(?), different kinds of consonant intervals: large and middle and symphonant and small or tangled (Ch. 6,
+p. 100) - Genuses (Ch. 7, p. 101).
+Contents of the topics (lectures) of the second essay:
+Groups larger than a fifth; perfect group or
+double octave (Ch. 1, p. 116) - Names of notes in
+the group; fixed notes and mobile notes (Ch. 2,
+p. 119) - Tonalities (Ch. 3, p. 129) - Mixing notes
+and intervals; mixing groups and tonalities (Ch.
+28
+
+4, p. 136) - The evolution of melody by means
+of notes (Ch. 5, p. 145) - Rhythm (ch. 6, p. 150) The construction of an instrument for the experimental verification of theory (ch. 7, p. 158) The finales of melodies (ch. 8, p. 160).
+Main ideas
+We have already seen that Al-Farabi describes
+the first of the second pair of lectures in the Book
+of Elements as dealing with the rules for deriving
+tones, intervals, and the like, and these derivations are in fact made very clear in the course
+of this lecture. The second essay is concerned
+with the constituent parts of this art, and in
+this connection Al Farabi often uses the expression „first principles“ (D‘Erlanger, 1930:115), for
+example in describing the topics covered in
+the second of the two essays on the elements
+of music. Similarly, the two essays deal with the
+„rudiments“ (ibid:162), i.e. the foundations of the
+art of music, and we will encounter this second
+term at the end of the second essay. However,
+one has to know how to establish these basics
+and this is done by means of rules. As Al-Farabi
+explains at the beginning of the second essay
+on the elements, these rules along with the „first
+principles“ were the subject of the first essay on
+the elements.
+These are „the rules by which one derives tones
+and intervals“ (ibid.:115), which, as we shall see,
+are among the rudiments of the art of music.
+Thus, the second pair of lectures in the Book of
+Elements extracts all the elements and also presents rules for their use. In it, the author presents complex calculations of ratios between
+tones and the size of intervals, gives directions
+for adding and subtracting one interval from
+another, and discusses the number and names of
+notes in his system in comparison with that of
+the ancient Greeks. But since this second pair
+of lectures deals with more than just the elements and fundamentals themselves, the term
+De Musica
+ISSN 2465-0137 – Anno 2024, Vol. XXVIII (1)
+
+THE GREAT BOOK OF MUSIC OF AL FARABI
+
+„elements“ includes some of the more difficult
+concepts whose detailed descriptions can allow
+us to understand (only somewhat) these terminologies. The second lecture concludes with a set
+of tables presenting the „blends of all the ‚genus‘ “
+(ibid.:137-142) (types of phonemes, modes) and
+lists complex calculations of notes, intervals, and
+„tonalities“ in each group, as well as those of the
+remaining notes in the group that are consonantal or dissonant.
+Finally, in the Book of Elements we learn that in
+composing a melody one selects notes from one
+of the various groups, the genus. „A genus is a fourth
+divided into three intervals“ (ibid:116). Their most
+important distinguishing features are the particular
+soundorder, „their composition“ of various possible
+combinations of microintervals within the fourth,
+fifth and octave. These are named and classified by
+length and underlie large parts of his system.
+The third pair of essays in The Book of
+Instruments (Part 3) discusses musical instruments. In them, Farabi deals in detail with the
+description of common musical instruments
+and how they can produce the tonal systems discussed in the theory. Among these instruments
+we see the oud (lute), the Bagdadian and Khorezian tumbur (pandora), the mezmar (flute, or reed
+pipe), the sornai (oboe), the rabab (rebecca), the
+mezafra (lyre), and the sanj (harp).
+Contents of the topics (lectures) of the first essay:
+The instruments used as a control experiment of the theory (Ch. 1, p. 164) – Description
+of the lute, strings, fingerboard and frets; usual
+tuning; octave repetitions of notes (Ch. 2, p.
+165) – Implementation of intervals on the lute
+(Ch. 3, p. 179) – Scale of the lute; “dynamis” and
+“individual notes”; their number (Ch. 4, p. 185) –
+Consonances of the notes of the lute (Ch. 5,
+p. 193) – The “lima” and the quarter-tone consonance; “accidental consonance” (ch. 6, p. 201) –
+extension of the scale of the lute; the fifth string
+De Musica
+Anno 2024 Vol. XXVIII (1) – ISSN 2465-0137
+
+(chap. 7, p. 204) – Other types of tuning of the
+lute, different from the generally accepted ones
+(Ch. 8, p. 207).
+Contents of the topics (lectures) in the second essay:
+Tunburs; Baghdad tunbur; frets with equal
+distances and frets with variable distances (Ch. 1,
+p. 217) – Other tunings; fixing the “genres”
+(Ch. 3, p. 242) – on this instrument (Ch. 2,
+p. 226) – Khurasan tumbur (Ch. 3, p. 242) – Correspondence of the notes of the Khurasan tumbur with those of the lute (Ch. 4, p. 249) – Other
+tunings (Ch. 5, p. 258) – Flutes; pitches and lows
+in flutes (Ch. 6, p. 262) – Types of flutes (Ch. 7,
+p. 268) – Rabab (Ch. 8, p. 277) – Other rabab tunings (Ch. 9, p. 280) – Harps (Ch. 10, p. 286).
+Main ideas
+The third pair of essays in the Book of Instruments (part 3) concerns musical instruments,
+the first essay beginning with a brief description of what is to follow. (ibid.: 164-165). After
+noting that he had already devoted two essays
+to the foundations and elements of music, and
+that he had already shown how these elements,
+described theoretically, can be experienced by
+the senses with the help of an instrument constructed for the purpose, al-Farabi proposes to
+show how these elements can be experienced on
+musical instruments that are actually used. At
+the end of the second lecture on instruments,
+he writes that in both lectures he has dealt with
+the instruments that are most used in his country, showing the notes and groups of scales that
+are suitable for each of them. In this way, he
+addresses himself not only to other theorists
+but also to the practicing musician (ibid.: 304306). He proposes to study each of the instruments and to show which ones are capable of
+producing all the tones and which ones can produce only some of them. Finally, he explicitly
+emphasizes the relationship between the notes
+29
+
+Ilia Mihaylov
+
+to be produced (played on musical instruments)
+and the calculations and arrangements that fall
+into the previous general lecture in the Book of
+Elements. Al-Farabi uses the lute to illustrate the
+derivation of all the pitches in his system.
+Of particular interest for our study is the
+microinterval and the use of quarter tones, as
+well as the instructions for their execution with
+different parts of the finger. In Fig. 61 (p. 173)
+it is clearly seen that the author distinguishes
+five pitches between the tones C and D: C, D
+flat, C sharp, D high flat, D. Similar microintervals are found on the other strings (Figs. 66–70,
+pp. 187–192).
+“The microintervals in Eastern music are quite
+different and quite numerous, but in practice we can
+be satisfied with the use of quarter tones” (ibid.:
+Preface, p. ХV) – claims another great orientalist specialist – Baroness Cara de Vaux,
+who wrote the preface to the cited work of
+d’Erlanger.
+
+The fourth and final pair of essays are located
+in The Book of Composition (Part 4) and
+deal with the musical composition of melody:
+the first – mainly with rhythm, and the second –
+with the different types of melodies and their
+composition.
+The treatment of rhythm in the first essay
+is one of the difficult areas in The Great Book of
+Music. The prominent German scholar Eckhard
+Neubauer believes that the chapters devoted to
+rhythm are an impenetrable chaparral and that
+Al-Farabi himself realized or was convinced by
+friends that a re-examination was necessary (Neubauer, 1968-69: 196-97)3. Al-Farabi does this in
+two subsequent treatises: Ketab al-iqa at and Ketab
+ehsa al-iqa at (Sawa, 1989: 20, 36-37)2.
+
+3
+See: George Sawa, FĀRĀBĪ v. Music, Encyclopædia
+Iranica, http://www.iranicaonline.org/articles/farabi-v (Visited
+April 20, 2024).
+
+30
+
+In parallel with music built on rhythmic
+modes, which is comparable to poetry, it has been
+noted that there also existed unmeasured types
+of music (unmetered), comparable to speech.
+In unmetered music, the proportions of duration are not integers. It is important to note that
+these musical genres still exist today in the Middle
+East: unmetered music is comparable to the Persian avaz (q.v.); the Arabic maulal, layali and taksim
+and the Turkish ghazal and taksim, while measured
+music is comparable to the Persian tanzif, the
+Arabic moulasaah and the Turkish persev and semay.
+Contents of the topics (lectures) of the first essay:
+Definition of melody (Ch. 1, p. 2) - Complete
+and incomplete groups (Ch. 2, p. 3) - Table of
+groups; consonants and dissonants (Ch. 3, p. 6) Evolution (Ch. 3, p. 6). 4, p. 18) - Rhythm (Ch. 5,
+p. 26) - Basic rhythm; percussion instruments (Ch.
+6, p. 27) - Generating rhythms starting from basic
+rhythm (Ch. 7, p. 29) - Compound rhythms (Ch. 8,
+p. 29) - Non-compound rhythms (Ch. 9, p. 31) Repeated percussion (Ch. 10, p. 34) - Additional
+percussion (Ch. 11, p. 37) - Arabic traditional
+rhythms (Ch. 12, p. 40) - Composing melodies
+(Ch. 13, p. 49).
+The discussion in the second essay deals with
+musical composition, consonances and dissonances, melodic movements and rhythmic modes
+used in practice, as well as specific details on
+vocal and instrumental performance practice,
+the relationship between language and music, the
+classification of types of voices and the purpose
+of music. Thanks to Farabi‘s clear description of
+musical practices, we can see how much has survived to the present day (Sawa, 1981:73-86).
+Contents of the topics (lectures) of the second essay:
+Vocal melodies; The human voice (Ch. 1,
+p. 53) - Phonemes (Ch. 2, p. 58) - Phrasing (Ch. 3,
+p. 61) - Adaptation of words to music; Full and
+empty notes (Ch. 4, p. 66) - Chants on blank notes
+De Musica
+ISSN 2465-0137 – Anno 2024, Vol. XXVIII (1)
+
+THE GREAT BOOK OF MUSIC OF AL FARABI
+
+(Ch. 5, p. 70) - Chants on full notes (Ch. 6, p. 75) Mixed chants (Ch. 7, p. 76) - Composite and
+non-composite chants (Ch. 8, p. 77) - Composition of the vocal melody (Ch. 9, p. 79) - Beginning
+and ending of a chant (Ch. 10, p. 84) - Feelings of
+the melodies; their embellishments; their interrelations with the passions (Ch. 11, p. 88) - Finale of
+the work (Ch. 12, p. 100).
+Main ideas
+Although rhythm is dealt with briefly in Book
+of Elements, Farabi discusses it at length in the
+first of the last pair of essays in Book of Composition (Part 4). Here he describes and classifies
+the many rhythms that were common among the
+Arabs of his time. The lectures also deal with
+musical composition, consonances and dissonances, melodic movements and rhythmic modes
+used in practice, and with specific details on vocal
+and instrumental performances, the relationship
+between language and music, the classification of
+voice types, and the purpose of music. Thanks
+to the more popular description of the musical
+practices of Farabi‘s time, we can see how many
+of them have survived to the present day.
+At the end of the last essay of Book of Composition, Farabi summarizes what has passed,
+observing that melodies „in general“ are of two
+types. Melodies of the first kind simply ‚please‘
+the senses, while those of the second kind are
+meant/intended to affect the soul. The latter are
+the ‚perfect‘ melodies (D‘Erlanger, 1935: 94-95).
+Although the term ‚perfect‘ has not been used in
+this context before, the twofold classification of
+melodies goes back to the very opening pages of
+The Great Book of Music, where Al-Farabi writes
+that the term ‚melody‘ can refer either to a particular sequence of notes - or to a series of tones
+that are connected by letters and words so as to
+express some thought (D‘Erlanger,1930: 5-6).
+The definition is then repeated and elaborated
+at the beginning of the last pair of essays. Here
+De Musica
+Anno 2024 Vol. XXVIII (1) – ISSN 2465-0137
+
+we read that „a melody is generally a group of notes
+combined according to a certain mode of arrangement“
+(D‘Erlanger, 1935: 3) and that among melodies
+some of them do not fulfill an additional condition, while others join texts. Thus the phrase
+‚melodies in general‘ refers to all melodies as well as
+to the first of the two types of melody.
+The first or general kind of melody is dealt
+with in the first of the final pair of essays in the
+Book of Composition, and as we have already seen,
+it is in this essay that the subject of rhythm is
+dealt with.
+But vocal, ‚perfect‘ melodies are the sole subject of the last essay in the Big Book (p. 58). It discusses in great detail the coupling of notes and
+lyrics in the composition of vocal music. Here AlFarabi discusses, for example, the tuning of measured and unmeasured texts, observing that measured texts have greater „regularity“ (ibid.: 65). He
+devotes considerable attention to the creation and
+structuring of the texts themselves, pointing out
+that they are guided by their own principles and
+constitute the art of poetry and rhetoric (ibid.: 64).
+The central point about perfect melodies, however, is that their purpose is to create certain states
+in the listener or to provoke the listener to certain
+actions. And it is only with the help of the text that
+melodies can achieve this goal, as it is manifest in
+the very definition of melodies (ibid.: 95).
+
+3. THE LIFE, WORK AND
+TRANSLATION OF BARON
+RUDOLF D’ERLANGER
+Although less than a hundred years separate
+us from the time of Rudolf d’Erlanger’s (18721932) active life, his personality and work are
+little known in Bulgaria. In him we observe a
+rare combination of artist, ethnomusicologist
+and Arabist. To him we owe the only complete French translation of Al-Farabi’s The
+Great Book of Music (Kitab al-Musiqa al-Kabir).
+31
+
+Ilia Mihaylov
+
+The translation was intended to spark a renaissance of Arabic music and its study. There is
+only one edition of this fundamental work,
+published in Paris and included in the six volumes of La Musique arabe. The first four volumes contain translations of works from the
+tenth to the sixteenth centuries, while the last
+two codify the modern theory of this music.
+La Musique arabe was published before and after
+D’Erlanger’s death, between 1930 and 1959. It
+became a major source for the study of Arabic music. D’Erlanger was also a collector, collecting musical instruments, some of which
+he brought back from sub-Saharan Africa and
+which later became the basis of the collection
+in the Centre for Arab and Mediterranean Music,
+established after his death in his own palace in
+Sidi Bou Said, northern Tunisia. He also left a
+library which includes all the works on Arab
+music published during his era.
+D’Erlanger was born in Boulogne-sur-Mer
+into a wealthy family of bankers with a French and
+English Catholic upbringing, and was fascinated
+by the Arab world from an early age. Between
+1903 and 1905 he travelled to Tunisia and Egypt
+on numerous occasions to paint, and turned out
+to be more of an artist than an explorer. He studied in Paris and London and chose to live in Tunis,
+where he settled in 1910. In 1917, he published
+his first article in the Tunisian journal De la musique
+arabe en Tunisie (“On Arab music in Tunisia”). His
+first musical mentor, Ahmad al-Wafi (1850-1921),
+a member of the Order of Shadilya and a recognized authority on music, guided and initiated him
+into the secrets of his art. This friendship began
+in 1914 and ended in 1921 after the death of
+Ahmad al-Wafi, who introduced D’Erlanger into
+the circles of the brotherhoods, where the predominant music was of the popular màluf al-jidd
+musical style. From 1924, assisted by Arab scholars and musicians, he studied Arab music intensively, translating many basic theoretical treatises.
+32
+
+D’Erlanger mentored practicing musicians.
+Through Al-Wafi, he organized private concerts
+that for twelve years featured performers with
+different musical horizons. He contributed to the
+preservation of the small instrumental ensemble
+(called the jaouk) in Tunisia. D’Erlanger would
+later build on and develop the ensemble by selecting each of its five members to participate in the
+Cairo Congress.
+In 1929 Baron D’Erlanger made a series of
+recordings with the Tuareg4 in the Sahara, which
+he offered to the ,,Berliner Phonogramm Archiv”.
+The recordings were later registered in his name
+in the German capital.
+D’Erlanger began his translation of Al-Farabi’s The Great Book of Music in 1922. For this
+purpose he employed Abd al-Aziz Bakkush, a
+freelance translator, and Manoubi al-Sanusi, who
+became his permanent private secretary. In 1923
+the working plan was drawn up: the Arabic Music
+would consist of treatises by al-Farabi, Safi al-Din,
+and al-Laddiqi, the only missing work in the project’s abstract at the time being that of Avicenna.
+Moreover, volumes 5 and 6 have not yet been
+formulated, nor are they cited in the preface to
+the first volume of Arab Music, which appeared
+in Paris in 1930. Their exposition was later prepared at the initiative of the Cairo Congress in
+1932. This international meeting influenced the
+Baron’s life and redirected his plans.
+This same 1930, when the first volume of
+Arab Music was published in Paris, was decisive
+for D’Erlanger. From that moment on, his name
+remained forever linked to that of Al-Farabi and
+settled firmly in the field of Middle Eastern music
+studies. Moreover, D’Erlanger also necessitated
+
+4
+The Tuareg are an African semi-nomadic people, inhabiting
+mainly the Sahara Desert in a vast territory stretching from far
+southwest Libya to the southern part of Algeria, Niger, Mali and
+Burkina Faso. Small groups of Tuareg are also found in northern
+Nigeria. They are traditionally engaged in cattle breeding, and
+have converted to Islam.
+
+De Musica
+ISSN 2465-0137 – Anno 2024, Vol. XXVIII (1)
+
+THE GREAT BOOK OF MUSIC OF AL FARABI
+
+a rethinking of previously known paradigms and
+theoretical uncertainties, and it was in this work
+that he questioned all previously known data on
+this music. In January 1931, Rudolf d’Erlanger
+responded to the personal invitation of King Fuad
+I of Egypt and had to travel to Cairo, where he
+stayed for a month. He was informally commissioned to prepare the congress devoted to Arab
+music held in Cairo in 1932. During his stay in
+Cairo, the Baron met Ali Darwish, whose reputation was already established and his professional
+skills unquestioned. Later, during the six months
+he spent at the Baron’s home in Sidi Bou Said,
+Ali Darwish’s mission consisted mainly in writing
+several papers, including one on rhythms, which
+was published in Arabic under the name of Baron
+D’Erlanger in a book that included the papers presented at the Cairo Congress in both the Arabic
+and French versions of the proceedings. By this
+time the Baron’s health was deteriorating. Rudolf
+d’Erlanger died, probably of tuberculosis or bronchial disease, on 29 October 1932.5
+
+4. DISCUSSION
+According to Al-Farabi‘s teachings, the art of
+music is divided into two areas - „theoretical“,
+which is a speculative science and studies its (the art
+of music‘s) foundations and principles, and „practical“, which is empirically derived and reflects lived
+practice. These two fields complement each other
+and only together are perceived as music. The term
+mysuka has therefore been interpreted in two ways:
+as a set of playable and composed melodies, and as
+a science which ‚consists in the study of kinds of melodies; what they are composed of; why they are composed; what
+should be done so that their effect may penetrate more deeply
+and touch more powerfully‘.
+5
+For the biographical notes, I have used data from “Le Baron
+Rudolf d’Erlanger” (1872–1932), the Artist and the Savant”
+by Christian Poché and Jean Lambert. https://www.amarfoundation.org/le-baron-rudolf-derlanger/
+
+De Musica
+Anno 2024 Vol. XXVIII (1) – ISSN 2465-0137
+
+The power and appeal of Al-Farby‘s Great Book
+of Music as a scientific theory lies precisely in its
+applicability to music of the most varied and different kinds and origins. The assumptions and paradigms discussed in it can be extrapolated to a variety of musical practices beyond the confines of
+the Arab world. Of interest to musicologists studying ancient Greece or medieval Europe, its terminology, concepts, and methodological approach
+have had a lasting influence on later music theorists, whether Arab, Persian, or Turkish. Moreover,
+because of the strong continuity in the musical traditions of the Middle East from the Middle Ages
+to the modern era, al-Farabi‘s writings continue to
+offer useful models for the analysis of music in the
+region today.
+In conclusion, the Great Book of Music (‚Kitab
+al-Musiqa al-Kabir‘) is of the utmost importance
+for the Middle East. It discusses various aspects
+of the art of music, describes the construction
+of the maqams prevalent at the time, presents the
+philosophical principles of Arab musical culture and discusses its cosmic qualities. Despite
+al-Farabi‘s notion that music borrowed some of
+its principles from mathematics, he distinguishes
+himself from the Pythagoreans, who did not recognize the „authority of the ear“ in the field of
+the perception of sounds. Pythagoras and his
+school accepted only calculations and measurements as the starting point of their reasoning,
+while Al-Farabi insisted that musical performance
+and hearing were the best judges for determining certain theoretical propositions, even when
+this sometimes contradicted certain mathematical calculations. He also noted that music theory
+emerged much later than practical art and was
+accordingly based on data from musical practice.
+In short, the theoretical art of music is a form
+of thinking that knows the tunes; the converse
+thesis is unprovable.
+However, more work is needed to clarify a significant number of obscure or ambiguous passages
+33
+
+Ilia Mihaylov
+
+in the book. Part of the problem is inherent in
+the subject itself - music is a non-verbal art and
+Al-Farabi resorts to many disciplines to express his
+thoughts. It is therefore inevitable that the modern reader is familiar with these disciplines in their
+tenth-century context, and should be equally aware
+that the author of the Great Book of Music sometimes borrows technical terms freely from particular sciences and applies them to music, not infrequently distorting their meaning or adding freely to
+their original meaning.
+
+LITERATURE:
+Azza 1992: Azza, Abd al-Hamid Madian.
+“Language-Music Relationships in Al-Faraba’s
+Grand book of music,” Ph.D. diss., Cornell University, 1992.
+D’Erlanger 1930: D’Erlanger, Rodolphe. La Musique arabe, Vol. 1. Librarie Orientaliste Paul
+Geuthner. Paris, 1930.
+D’Erlanger 1935: D’Erlanger, Rodolphe. La Musique arabe, Vol. 2. Librarie Orientaliste Paul
+Geuthner. Paris, 1935.
+Farmer 1965: Farmer, Henry. The Sources of
+Arabian Music. Leiden, E.J. Brill, 1965.
+Khallikan Ibn. 1868: Khallikan Ibn. (tr. de Slane).
+Biographical Dictionary.Vol. 3. Paris, Oriental
+Translation Fund of Great Britan and Irland, 1868.
+Sawa 1981: Sawa, George. The Survival of
+Some Aspects of Medieval Arabic Performance
+Practice. – Ethnomusicology, 25/1, University
+of Illinois Press, 1981.
+Sawa 1983-1984: Sawa, George. Al-Farabi’s Theory of the Iqa: An Empirically Derived Medieval
+Model of Rhythmic Analysis. – Selected Reports
+in Ethnomusicology, UCLA, Los Angeles, 11/9,
+1983-1984.
+
+34
+
+Sawa 1980: Sawa, George. Music Performance
+Practice in the Early’Abbasid Era, 132-320 AH /
+750-932 AD. Toronto, 1980.
+Sawa 1990: Sawa, George. Paradigms in al-Farabi’s Musical Writings. – In: “Paradigms in Medieval Thought: Applications in Medieval Disciplines “. Medieval Studies, Vol. 3. Lewiston,
+Edwin Melem Press, 1990.
+Amnon 1979: Amnon, Shiloah. The Theory
+of Music in Arabic Writings (р. 900–1900):
+Descriptive Catalogue of Manuscripts in
+Libraries of Europe and the U.S.A. Munich, G.
+Henle Verlag, 1979.
+
+WEB:
+George Sawa, “FĀRĀBĪ v. Music,” Encyclopædia
+Iranica, accessed April 25, 2024, http://www.
+iranicaonline.org/articles/farabi-v.
+Christian Poché, Jean Lambert „Le Baron Rudolf
+d’Erlanger (1872-1932), the Artist and the Savant “,
+accessed March 15, 2024, https://www.amar-foundation.org/le-baron-rudolf-derlanger/.
+
+NOTES:
+1.
+The known manuscripts and editions of the Great Music
+Book (Ketāb al-mūsīqī al-kabīr) are:
+MSS Istanbul, Süleymaniye Kütüphanesi, Ragıp Paşa, no. 876;
+Köprülü, no. 953;
+MS Leiden, Universitätsbibliothek, Or. 651;
+MS Madrid, Bibliotheca Nacional, Res. 241;
+MS Milan, Biblioteca Ambrosiana, no. 289;
+MS Princeton, N.J., University Library, Garrett 1984; ed. Ḡaṭṭās
+ʿAbd-al-Malek Ḵašaba (with revisions and introduction by M. A.
+Hefnī), Cairo, 1967 (in Arabic); tr. R. d’Erlanger as Grand traité de la
+musique: Kitābu’ l-Mūsīqī al-Kabīr, La Musique arabe, 2 vols., Paris,
+1930-35 (in French).
+2.
+In these two treatises, Al-Farabi perfected his theory of
+rhythm and his system of rhythmic notation. He developed general
+formulas, calling them the foundations, and codified sixteen modern ornamental techniques that modify and embellish rhythms and
+allow for an infinite number of rhythmic variations. Of particular
+value are his notated examples of rhythms in their basic and ornamented forms, as well as the meticulous inscriptions placed under
+the notated examples, which explain the arrangement of the basic
+rhythmic attacks and the ornamental additions.
+
+De Musica
+ISSN 2465-0137 – Anno 2024, Vol. XXVIII (1)
+
+
